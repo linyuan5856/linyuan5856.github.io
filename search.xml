@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[learn python]]></title>
+    <url>%2F2018%2F07%2F08%2Flearn-python%2F</url>
+    <content type="text"><![CDATA[刚开始练手python 简洁强大 上手快收集一些资源链接在此 网站官网 DocumentsPython教程（廖雪峰）W3School速查词典pygameSDL的python Warpper 游戏开发Making Games with Python &amp; Pygame很好的教程 京东有汉化书全套 Demo贪吃蛇 第三方库IronPython python使用.netAnaconda 数据科学分析]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Blog开张大吉]]></title>
     <url>%2F2018%2F07%2F03%2Ftest-blog%2F</url>
     <content type="text"><![CDATA[#第一篇Blog 庆祝博客开张记录一些编程的（游戏方向）零碎…片段START1234print('hello world')while true: Coding Forever]]></content>
